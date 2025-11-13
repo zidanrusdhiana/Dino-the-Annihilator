@@ -8,7 +8,7 @@
 
 **A thrilling space-themed game where a dinosaur character catches planets using a lasso!**
 
-[Features](#-features) • [Installation](#-installation) • [How to Play](#-how-to-play) • [Architecture](#-architecture) • [Screenshots](#-screenshots)
+[Features](#-features) • [Installation](#-installation) • [Documentations](#-documentations)
 
 </div>
 
@@ -81,3 +81,9 @@ run.bat
 javac -cp "lib/mysql-connector-j-9.2.0.jar;." src\model\*.java src\view\*.java src\viewmodel\*.java src\config\*.java src\Main.java
 java -cp "lib/mysql-connector-j-9.2.0.jar;src" Main
 ```
+## Documentations
+<img width="785" height="592" alt="image" src="https://github.com/user-attachments/assets/910f6c1e-2f74-4681-8302-8857a25b2d23" />
+<img width="1263" height="706" alt="image" src="https://github.com/user-attachments/assets/7c7d5c47-285f-48b0-9383-48755e445e04" />
+<img width="1265" height="711" alt="image" src="https://github.com/user-attachments/assets/a6f87abd-0d66-4e25-a4e1-2a6588e13828" />
+
+https://youtu.be/97CwQZHXnnQ?si=h2mI_JLefX54ZQIT
