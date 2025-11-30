@@ -85,6 +85,8 @@ java -cp "lib/mysql-connector-j-9.2.0.jar;src" Main
 <img width="785" height="592" alt="image" src="https://github.com/user-attachments/assets/910f6c1e-2f74-4681-8302-8857a25b2d23" />
 <img width="1263" height="706" alt="image" src="https://github.com/user-attachments/assets/7c7d5c47-285f-48b0-9383-48755e445e04" />
 <img width="1265" height="711" alt="image" src="https://github.com/user-attachments/assets/a6f87abd-0d66-4e25-a4e1-2a6588e13828" />
+<img width="1897" height="1063" alt="image" src="https://github.com/user-attachments/assets/c3ee430f-1532-459e-a91e-9dd3b83ca13f" />
+
 
 
 https://github.com/user-attachments/assets/9974962b-86bf-4e37-848c-8ee8d700c4f8
